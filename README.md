@@ -7,6 +7,6 @@
 >
 > public void OnLoad(){
 >  mcSkin = new MinecraftSkin(Data.username);
->  pictureBoxHead.Image = mcSkin.GetSkin(SkinType.Head);<br>
+>  pictureBoxHead.Image = mcSkin.GetSkin(SkinType.Head);
 > }
 > ```
