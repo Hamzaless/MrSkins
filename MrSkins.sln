@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrSkins", "MrSkins\MrSkins.csproj", "{8FFAE019-ED97-4FB9-A6C6-5A4949579307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrSkinsTest", "MrSkinsTest\MrSkinsTest.csproj", "{3EC3F170-8208-4029-95CA-C48B1253BE4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FFAE019-ED97-4FB9-A6C6-5A4949579307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFAE019-ED97-4FB9-A6C6-5A4949579307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFAE019-ED97-4FB9-A6C6-5A4949579307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFAE019-ED97-4FB9-A6C6-5A4949579307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC3F170-8208-4029-95CA-C48B1253BE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC3F170-8208-4029-95CA-C48B1253BE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC3F170-8208-4029-95CA-C48B1253BE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC3F170-8208-4029-95CA-C48B1253BE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31D9DD73-F899-4D5F-8064-1CEF5710DBB9}
+	EndGlobalSection
+EndGlobal
